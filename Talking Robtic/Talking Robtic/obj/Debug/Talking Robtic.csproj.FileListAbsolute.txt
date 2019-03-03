@@ -1,0 +1,19 @@
+D:\test2\Talking Robtic\Talking Robtic\bin\Debug\Talking Robtic.exe.config
+D:\test2\Talking Robtic\Talking Robtic\bin\Debug\Talking Robtic.exe
+D:\test2\Talking Robtic\Talking Robtic\bin\Debug\Talking Robtic.pdb
+D:\test2\Talking Robtic\Talking Robtic\bin\Debug\Newtonsoft.Json.dll
+D:\test2\Talking Robtic\Talking Robtic\bin\Debug\Newtonsoft.Json.xml
+D:\test2\Talking Robtic\Talking Robtic\obj\Debug\Talking Robtic.csprojResolveAssemblyReference.cache
+D:\test2\Talking Robtic\Talking Robtic\obj\Debug\Talking_Robtic.Robtic.resources
+D:\test2\Talking Robtic\Talking Robtic\obj\Debug\Talking_Robtic.Properties.Resources.resources
+D:\test2\Talking Robtic\Talking Robtic\obj\Debug\Talking Robtic.csproj.GenerateResource.Cache
+D:\test2\Talking Robtic\Talking Robtic\obj\Debug\Talking Robtic.exe
+D:\test2\Talking Robtic\Talking Robtic\obj\Debug\Talking Robtic.pdb
+D:\test2\Talking Robtic\Talking Robtic\bin\Debug\Interop.MLApp.dll
+D:\test2\Talking Robtic\Talking Robtic\obj\Debug\Interop.MLApp.dll
+D:\test2\Talking Robtic\Talking Robtic\obj\Debug\Talking Robtic.csproj.ResolveComReference.cache
+F:\新建文件夹 (2)\Talking Robtic\Talking Robtic\bin\Debug\Talking Robtic.exe.config
+F:\新建文件夹 (2)\Talking Robtic\Talking Robtic\obj\Debug\Interop.MLApp.dll
+F:\新建文件夹 (2)\Talking Robtic\Talking Robtic\obj\Debug\Talking Robtic.csproj.ResolveComReference.cache
+F:\新建文件夹 (2)\Talking Robtic\Talking Robtic\obj\Debug\Talking Robtic.exe
+F:\新建文件夹 (2)\Talking Robtic\Talking Robtic\obj\Debug\Talking Robtic.pdb
